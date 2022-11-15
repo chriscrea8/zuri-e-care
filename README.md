@@ -8,7 +8,7 @@ E-Care
 
 <h2><bold>Site Link</bold></h2>
 
-https://e-care-pjt-24.netlify.app/
+https://chriscrea8.github.io/zuri-e-care/
 
 <h2><bold>Project Documentation</bold></h2>
 
